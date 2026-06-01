@@ -30,9 +30,8 @@ Or add a new category section with a `##` heading.
 
 | Input (remove) | Replacement |
 |---|---|
-| ਸਤਿ ਸ੍ਰੀ ਅਕਾਲ ਜੀ। | *(remove)* |
-| ਵਾਹਿਗੁਰੂ ਜੀ ਕਾ ਖਾਲਸਾ ਵਾਹਿਗੁਰੂ ਜੀ ਕੀ ਫਤਿਹ ਜੀ। | *(remove)* |
-| ਵਾਹਿਗੁਰੂ ਜੀ ਕਾ ਖਾਲਸਾ, ਵਾਹਿਗੁਰੂ ਜੀ ਕੀ ਫਤਿਹ। | *(remove)* |
+| ਨਮਸਤੇ | *(remove)* |
+| ਨਮੋ ਨਮਃ। | *(remove)* |
 | ਵੀਰ ਜੀ, | *(remove)* |
 | ਅੱਜ ਦੀ ਖ਼ਬਰ ਇਹ ਹੈ ਕਿ | *(remove)* |
 | ਹੋਰ ਪ੍ਰਮੁੱਖ: | *(remove)* |
